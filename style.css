@@ -1,4 +1,36 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+  background-color: black;
+  font-family: arial;
+  color: black;
+}
 
+h1 {
+  color: grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.maindiv {
+  background-color: white;
+  width: 500px;
+  padding: 20px;
+  border-radius: 25px;
+  margin: auto;
+}
+
+table {
+  margin: auto;
+  padding: 0px 20px;
+  border-spacing: 10px;
+}
+
+td {
+  padding-left: 5px;
+  text-align: left;
+}
+.highligh-text {
+  background-color: #ffff00;
+}
+
+footer {
+  text-align: left;
+}
